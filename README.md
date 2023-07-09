@@ -26,7 +26,8 @@ This project utilizes deep learning techniques to predict house values based on 
 git clone https://github.com/triobaba/house-value-prediction.git
 
 2. Install the required dependencies:
-pip install -r requirements.txt
+pip install -r [Requirements](requirements.txt)
+
 
 
 
